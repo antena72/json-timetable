@@ -1,0 +1,192 @@
+[
+    {
+        "id": 1,
+        "tipo": "directos",
+        "dia": "lunes",
+        "hora": "10:00", 
+        "actividad": "Cross training",
+        "instructor": "Instructor Iñaki M.",
+        "link": "",
+        "otro": ""
+    },
+    {
+        "id": 2,
+        "tipo": "rutina",
+        "dia": "lunes",
+        "hora": "12:00", 
+        "actividad": "Rutina",
+        "instructor": "Combos / Cardio",
+        "link": "https://www.facebook.com/",
+        "otro": ""
+    },
+    {
+        "id": 3,
+        "tipo": "guiada",
+        "dia": "lunes",
+        "hora": "17:00", 
+        "actividad": "Hiit",
+        "instructor": "Instructora Julia R.",
+        "link": "",
+        "otro": ""
+    },
+    {
+        "id": 4,
+        "tipo": "guiada",
+        "dia": "lunes",
+        "hora": "18:00", 
+        "actividad": "Full body",
+        "instructor": "Instructora Valeria S.",
+        "link": "",
+        "otro": ""
+    },
+    {
+        "id": 5,
+        "tipo": "directos",
+        "dia": "martes",
+        "hora": "10:00", 
+        "actividad": "Indoor",
+        "instructor": "Instructor Iñaki M.",
+        "link": "",
+        "otro": ""
+    },
+    {
+        "id": 6,
+        "tipo": "guiada",
+        "dia": "martes",
+        "hora": "17:00", 
+        "actividad": "Yoga",
+        "instructor": "Instructora Ausra P.",
+        "link": "",
+        "otro": ""
+    },
+    {
+        "id": 7,
+        "tipo": "directos",
+        "dia": "martes",
+        "hora": "18:00", 
+        "actividad": "GAP",
+        "instructor": "Instructora Vicky D.",
+        "link": "",
+        "otro": ""
+    },
+    {
+        "id": 8,
+        "tipo": "directos",
+        "dia": "miercoles",
+        "hora": "10:00", 
+        "actividad": "Cross training",
+        "instructor": "Instructor Iñaki M.",
+        "link": "",
+        "otro": ""
+    },
+    {
+        "id": 9,
+        "tipo": "rutina",
+        "dia": "miercoles",
+        "hora": "12:00", 
+        "actividad": "Rutina",
+        "instructor": "Abdomen - Core",
+        "link": "",
+        "otro": ""
+    },
+    {
+        "id": 10,
+        "tipo": "guiada",
+        "dia": "miercoles",
+        "hora": "17:00", 
+        "actividad": "Full body",
+        "instructor": "Instructor Javi M.",
+        "link": "",
+        "otro": ""
+    },
+    {
+        "id": 11,
+        "tipo": "guiada",
+        "dia": "miercoles",
+        "hora": "18:00", 
+        "actividad": "Woman fit",
+        "instructor": "Instructora Sheila N.",
+        "link": "",
+        "otro": ""
+    },
+    {
+        "id": 12,
+        "tipo": "directos",
+        "dia": "jueves",
+        "hora": "10:00", 
+        "actividad": "Ciclo indoor",
+        "instructor": "Instructor Iñaki M.",
+        "link": "",
+        "otro": ""
+    },
+    {
+        "id": 19,
+        "tipo": "guiada",
+        "dia": "jueves",
+        "hora": "17:00", 
+        "actividad": "Pilates",
+        "instructor": "Instructora Ana M.",
+        "link": "",
+        "otro": ""
+    },
+    {
+        "id": 13,
+        "tipo": "directos",
+        "dia": "jueves",
+        "hora": "18:00", 
+        "actividad": "Funcional",
+        "instructor": "Instructor Patri O.",
+        "link": "",
+        "otro": ""
+    },
+    {
+        "id": 14,
+        "tipo": "rutina",
+        "dia": "viernes",
+        "hora": "12:00", 
+        "actividad": "Rutina autónoma",
+        "instructor": "Movilidad - propiocepción - equilibrio - coordinación",
+        "link": "",
+        "otro": ""
+    },
+    {
+        "id": 15,
+        "tipo": "coreografica",
+        "dia": "viernes",
+        "hora": "17:00", 
+        "actividad": "Zumba",
+        "instructor": "Instructora Fany C.",
+        "link": "",
+        "otro": ""
+    },
+    {
+        "id": 16,
+        "tipo": "guiada",
+        "dia": "sabado",
+        "hora": "10:00", 
+        "actividad": "Autocarga",
+        "instructor": "Instructor Jon E.",
+        "link": "",
+        "otro": ""
+    },
+    {
+        "id": 17,
+        "tipo": "directos",
+        "dia": "sabado",
+        "hora": "17:30", 
+        "actividad": "Cocinando en casa",
+        "instructor": "Vicky D.",
+        "link": "",
+        "otro": ""
+    },
+    {
+        "id": 18,
+        "tipo": "guiada",
+        "dia": "domingo",
+        "hora": "10:00", 
+        "actividad": "Circuito metabólico",
+        "instructor": "Instructor Jon E.",
+        "link": "",
+        "otro": ""
+    }
+]

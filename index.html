@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="Ximena May">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots"  content="index" />
+<title>Agenda</title>
+<!-- css -->
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="assets/css/all.min.css">
+<link rel="stylesheet" href="assets/css/estilosPrimero.css">
+
+</head>
+<div class="container">
+    <h1>Agenda Bloques de color</h1>
+    <h3>Cambios en método ajax y sistema toggle</h3>
+    <p>Ancho de la caja 1020px, si la pantalla es menor se podrá hacer scroll para ver el resto de la tabla</p>
+    <div id="contenedorAgenda">
+            <div id="referencias">
+              <div class="row justify-content-md-center my-4">
+                <div class="col-12 col-md-3">
+                  <i class="align-middle txtrutina fa fa-circle"></i> Rutina autónoma
+                </div>
+                <div class="col-12 col-md-3">
+                  <i class="align-middle txtguiada fa fa-circle"></i> Sesión guiada
+                </div>
+                <div class="col-12 col-md-3">
+                  <i class="align-middle txtcoreografica fa fa-circle"></i> Clase coreografiada
+                </div>
+                <div class="col-12 col-md-3">
+                  <i class="align-middle txtdirectos fa fa-circle"></i> Directos / Streaming
+                </div>
+              </div>
+            </div>
+        
+             <!-- fin referencias -->
+
+            <div class="row">            
+              <div class="col-12 table-responsive">
+                    <table class="table table-bordered">
+                      <!--  -->
+                      <tr class="diasSemana fondogris">
+                        <td class="horas">horas</td>
+                        <td class="dias">Lunes</td>
+                        <td class="dias">Martes</td>
+                        <td class="dias">Miércoles</td>
+                        <td class="dias">Jueves</td>
+                        <td class="dias">Viernes</td>
+                        <td class="dias">Sábado</td>
+                        <td class="dias">Domingo</td>
+                      </tr>
+                      <tr>
+                        <td colspan="8"><a id="botManana" class="txtVerdeActivo botTurnos button"> MAÑANA <i class="fas fa-chevron-down"></i></a> </td>
+                      </tr>
+                      <tr>
+                        <td class="poneResult" colspan="8">
+                          <div id="result">
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td colspan="8"><a id="botTarde" class="txtVerdeActivo botTurnos button"> TARDE <i class="fas fa-chevron-down"></i> </a></td>
+                      </tr>
+                      <tr>
+                        <td class="poneResult" colspan="8">
+                          <div id="resultTarde">
+                
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td colspan="8">
+                          <a class="m-2" href=""><i class="fas fa-download"></i> DESCARGAR</a> | 
+                        </td>
+                      </tr>
+                    </table>
+              </div>
+            </div>
+
+    </div>
+
+</div>
+
+<body>
+<!-- jquery -->
+<script src="https://code.jquery.com/jquery-3.5.0.min.js"></script>
+<script src="assets/js/funcionesPrimero.js"></script>
+</body>
+</html>
